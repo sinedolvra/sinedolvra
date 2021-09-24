@@ -66,3 +66,8 @@ in MSSQL, PostgreSQL and MySQL databases with data analysis for decision making.
     <a href="https://www.linkedin.com/in/denisolvra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"></a>
     <a href="https://www.instagram.com/denisolvra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90"></a>
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sinedolvra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedolvra">
+</p> 
